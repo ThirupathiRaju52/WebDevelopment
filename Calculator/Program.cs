@@ -50,6 +50,7 @@ namespace Calculator
 
                 string op = Console.ReadLine();
 
+
                 try
                 {
                     result = Calculator.DoOperation(cleanNum1, cleanNum2, op);
